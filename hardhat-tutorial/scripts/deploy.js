@@ -19,3 +19,4 @@ async function main() {
     });
 
     // Whitelist Contract Address 0x46680152B7Edfd31E9aF8620cC95E91a8B8B935A
+    // Updated 20 Jul '22: 0x06D6d6C5a304b88c28544bE739aD927F2e844D79
